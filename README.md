@@ -1,2 +1,2 @@
-# Open-Bootcamp
+# Taller Ejercicio 3
 # Proyectos de aprendizaje 
